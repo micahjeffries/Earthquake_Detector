@@ -1,0 +1,80 @@
+
+Earthquakes:
+------------
+(2.80)                 12km W of Harper, Kansas at 2017-02-27 00:36:40 ( -98.161, 37.287)
+(1.79)       7km WNW of The Geysers, California at 2017-02-28 11:16:03 (-122.837, 38.798)
+(5.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+(3.85)                   6km SW of Valencia, CA at 2017-02-28 10:58:54 (-118.622, 34.426)
+(1.00)               30km WSW of Salcha, Alaska at 2017-02-28 10:28:04 (-147.444, 64.378)
+(2.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+(5.00)             9km WNW of Laiwui, Indonesia at 2017-02-28 11:08:33 ( 127.592, -1.312)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: Sort by (m)agnitude, (t)ime, (l)ongitude, or l(a)titude? 
+Earthquakes:
+------------
+(5.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+(5.00)             9km WNW of Laiwui, Indonesia at 2017-02-28 11:08:33 ( 127.592, -1.312)
+(3.85)                   6km SW of Valencia, CA at 2017-02-28 10:58:54 (-118.622, 34.426)
+(2.80)                 12km W of Harper, Kansas at 2017-02-27 00:36:40 ( -98.161, 37.287)
+(2.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+(1.79)       7km WNW of The Geysers, California at 2017-02-28 11:16:03 (-122.837, 38.798)
+(1.00)               30km WSW of Salcha, Alaska at 2017-02-28 10:28:04 (-147.444, 64.378)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: Filter by (m)agnitude or (p)lace? Search for what string? 
+Earthquakes:
+------------
+(5.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+(3.85)                   6km SW of Valencia, CA at 2017-02-28 10:58:54 (-118.622, 34.426)
+(2.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+(1.79)       7km WNW of The Geysers, California at 2017-02-28 11:16:03 (-122.837, 38.798)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: Filter by (m)agnitude or (p)lace? Lower bound: Upper bound: 
+Earthquakes:
+------------
+(5.00)             9km WNW of Laiwui, Indonesia at 2017-02-28 11:08:33 ( 127.592, -1.312)
+(3.85)                   6km SW of Valencia, CA at 2017-02-28 10:58:54 (-118.622, 34.426)
+(2.80)                 12km W of Harper, Kansas at 2017-02-27 00:36:40 ( -98.161, 37.287)
+(2.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: Sort by (m)agnitude, (t)ime, (l)ongitude, or l(a)titude? 
+Earthquakes:
+------------
+(5.00)             9km WNW of Laiwui, Indonesia at 2017-02-28 11:08:33 ( 127.592, -1.312)
+(3.85)                   6km SW of Valencia, CA at 2017-02-28 10:58:54 (-118.622, 34.426)
+(5.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+(2.06)             8km ENE of Coso Junction, CA at 2017-02-28 11:08:41 (-117.863, 36.078)
+(2.80)                 12km W of Harper, Kansas at 2017-02-27 00:36:40 ( -98.161, 37.287)
+(1.79)       7km WNW of The Geysers, California at 2017-02-28 11:16:03 (-122.837, 38.798)
+(1.00)               30km WSW of Salcha, Alaska at 2017-02-28 10:28:04 (-147.444, 64.378)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: 

@@ -1,0 +1,44 @@
+
+Earthquakes:
+------------
+(1.05)             9km E of Running Springs, CA at 2017-02-27 00:51:05 (-117.008, 34.204)
+(2.19)              5km S of Gilroy, California at 2017-02-26 21:32:18 (-121.580, 36.958)
+(2.06)                6km SW of Volcano, Hawaii at 2017-02-27 10:55:59 (-155.280, 19.383)
+(4.50)        122km SSE of Chignik Lake, Alaska at 2017-02-27 08:07:28 (-157.822, 55.289)
+(2.80)                 12km W of Harper, Kansas at 2017-02-27 00:36:40 ( -98.161, 37.287)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: Filter by (m)agnitude or (p)lace? Lower bound: Upper bound: 
+Earthquakes:
+------------
+(2.19)              5km S of Gilroy, California at 2017-02-26 21:32:18 (-121.580, 36.958)
+(4.50)        122km SSE of Chignik Lake, Alaska at 2017-02-27 08:07:28 (-157.822, 55.289)
+(2.80)                 12km W of Harper, Kansas at 2017-02-27 00:36:40 ( -98.161, 37.287)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: Sort by (m)agnitude, (t)ime, (l)ongitude, or l(a)titude? 
+Earthquakes:
+------------
+(4.50)        122km SSE of Chignik Lake, Alaska at 2017-02-27 08:07:28 (-157.822, 55.289)
+(2.80)                 12km W of Harper, Kansas at 2017-02-27 00:36:40 ( -98.161, 37.287)
+(2.19)              5km S of Gilroy, California at 2017-02-26 21:32:18 (-121.580, 36.958)
+(2.06)                6km SW of Volcano, Hawaii at 2017-02-27 10:55:59 (-155.280, 19.383)
+(1.05)             9km E of Running Springs, CA at 2017-02-27 00:51:05 (-117.008, 34.204)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: 

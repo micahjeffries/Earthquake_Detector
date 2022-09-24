@@ -1,0 +1,13 @@
+
+Earthquakes:
+------------
+(1.05)             9km E of Running Springs, CA at 2017-02-27 00:51:05 (-117.008, 34.204)
+(2.19)              5km S of Gilroy, California at 2017-02-26 21:32:18 (-121.580, 36.958)
+
+Options:
+  (s)ort
+  (f)ilter
+  (n)ew quakes
+  (q)uit
+
+Choice: 
